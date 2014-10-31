@@ -1,6 +1,6 @@
 XLS_Forms
 =========
 
-This file is to describe the XML form used for a rapid situational report (SitREP) for the analysis of IDPs from the Anbar crisis currently residing in Kurdistan Iraq
+This file is to describe common coding of XLS forms for the development of ODK applications.
 
 Repository for Commonly Used XLS forms
